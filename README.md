@@ -1,4 +1,5 @@
 # 🏬 Retail Store Sales Insights – Excel
+![Store Sales Data Analysis Report](https://github.com/MadhurDwivedi/Retail_Store_Sales_Insights_Excel/blob/main/Store%20Sales%20Data%20Analysis%20Report.png)
 ## 📌 Project Objective
 The objective of this project is to analyze retail store sales data using Microsoft Excel to understand customer behavior, sales trends, channel performance, and demographic-based purchasing patterns.
 
